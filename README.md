@@ -2,7 +2,7 @@
 - 👀 I’m interested in java + www.madskiman.com
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me novakevgeniy1953@gmail
+- 📫 How to reach me: novakevgeniy1953@gmail
 
 <!---
 NovakEvgeniy/NovakEvgeniy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
